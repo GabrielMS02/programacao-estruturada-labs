@@ -1,0 +1,3 @@
+#Escreva um programa em Python que solicite ao usuário dois números inteiros e troque os valores das variáveis. Em seguida, imprima os valores atualizados.
+#Instruções:
+#Solicite ao usuário o primeiro número inteiro e armazene-o em uma variável chamada numero1. Solicite ao usuário o segundo número inteiro e armazene-o em uma variável chamada numero2. Troque os valores das variáveis numero1 e numero2 utilizando atribuição múltipla. Imprima os valores atualizados das variáveis utilizando a função print().
